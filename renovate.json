@@ -1,5 +1,6 @@
 {
   "extends": [
+    "config:base",
      "github>hasanwhitesource/14726-changelogs:renovate.json"
   ],
   "packageRules": [
