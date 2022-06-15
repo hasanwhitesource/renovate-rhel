@@ -1,4 +1,7 @@
 {
+  "extends": [
+     "github>hasanwhitesource/renovate-rhel:renovate.json"
+  ],
   "packageRules": [
     {
       "matchDatasources": ["docker"],
