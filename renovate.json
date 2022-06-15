@@ -1,6 +1,6 @@
 {
   "extends": [
-     "github>hasanwhitesource/renovate-rhel:renovate.json"
+     "github>hasanwhitesource/14726-changelogs:renovate.json"
   ],
   "packageRules": [
     {
